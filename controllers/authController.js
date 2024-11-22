@@ -19,7 +19,7 @@ exports.login = async (req, res) => {
     const { email, password } = req.body;
 
     // Simulate login verification
-    if (password !== "testpassword") {
+    if (password !== "appleMacbook") {
       return res.status(401).json({ message: "Invalid credentials" });
     }
 
