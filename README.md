@@ -11,3 +11,7 @@
 3.  jsonwebtoken - for JWT-based authentication
 4.  dotenv - to store environment variables
 5.  cors - for handling cross-origin resource sharing
+
+<br />
+
+Authorization part not working
